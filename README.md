@@ -1,2 +1,2 @@
 # FaceReconise
-Using python detect a face
+Using python to detect a face 
